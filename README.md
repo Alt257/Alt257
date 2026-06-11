@@ -1,4 +1,5 @@
-# 👋 Hello, I am BENOÎT RATAUX / Bonjour, je suis BENOÎT RATAUX
+# 👋 Hello / Bonjour !
+## I am BENOÎT RATAUX / Je suis BENOÎT RATAUX
 
 ### Full Stack Web & Mobile Developer / Développeur Full Stack Web & Mobile (.NET, Angular, Flutter)
 
