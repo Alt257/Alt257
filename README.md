@@ -1,10 +1,19 @@
 # 👋 Hello, I am BENOÎT RATAUX / Bonjour, je suis BENOÎT RATAUX
 
-### Full Stack Web & Mobile Developer / Développeur Full Stack Web & Mobile (.NET, Angular, Flutter)
+### Full Stack Web & Mobile Developer / Développeur Full Stack Web & Mobile
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&lines=.NET+%7C+Angular+%7C+Flutter;Passionné+d'architecture+logicielle;Toujours+en+quête+de+nouveaux+défis" alt="Typing Animation" />
-</p>
+<!-- 
+  Configuration de la bannière animée (Typing Animation) :
+  - Pour modifier les phrases : changez le paramètre "lines" dans l'URL ci-dessous.
+  - Séparez les phrases par des points-virgules (;).
+  - Autres paramètres modifiables : font, width, height, color.
+-->
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20%7C%20Angular%20%7C%20Flutter%3BPassionn%C3%A9%20d%27architecture%20logicielle%3BToujours%20en%20qu%C3%AAte%20de%20nouveaux%20d%C3%A9fis&font=Fira%20Code&center=true&width=700&height=40&color=32bcf7" 
+    alt="Typing Animation" 
+  />
+</div>
 
 > *"There is a common thread between a well-designed escape game and successful software: everything must come together with elegance."*
 > *"Il y a un point commun entre un escape game bien conçu et un logiciel réussi : tout doit s'assembler avec élégance."*
