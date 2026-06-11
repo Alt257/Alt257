@@ -1,6 +1,6 @@
 # 👋 Hello, I am BENOÎT RATAUX / Bonjour, je suis BENOÎT RATAUX
 
-### Full Stack Web & Mobile Developer / Développeur Full Stack Web & Mobile
+### Full Stack Web & Mobile Developer / Développeur Full Stack Web & Mobile (.NET, Angular, Flutter)
 
 <!-- 
   Configuration de la bannière animée (Typing Animation) :
@@ -10,7 +10,7 @@
 -->
 <div align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20%7C%20Angular%20%7C%20Flutter%3BPassionn%C3%A9%20d%27architecture%20logicielle%3BToujours%20en%20qu%C3%AAte%20de%20nouveaux%20d%C3%A9fis&font=Fira%20Code&center=true&width=700&height=40&color=32bcf7" 
+    src="https://readme-typing-svg.herokuapp.com/?lines=.NET%20%7C%20Angular%20%7C%20Flutter%3BPassionn%C3%A9%20d%27architecture%20logicielle%3BToujours%20en%20qu%C3%AAte%20de%20nouveaux%20d%C3%A9fis&font=Fira%20Code&center=true&width=700&height=50&color=32bcf7&size=30"
     alt="Typing Animation" 
   />
 </div>
@@ -40,6 +40,20 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+#### Tools / Outils
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### IDEs
+![Rider](https://img.shields.io/badge/Rider-7447D0?style=for-the-badge&logo=jetbrains-rider&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-4080D8?style=for-the-badge&logo=phpstorm&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-007ACC?style=for-the-badge&logo=webstorm&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![DataGrip](https://img.shields.io/badge/DataGrip-F58F1D?style=for-the-badge&logo=datagrip&logoColor=white)
 
 ---
 
