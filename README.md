@@ -60,7 +60,7 @@
 ---
 
 ### 📊 GitHub Stats / Statistiques GitHub
-![Benoît's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alt257&show_icons=true&theme=radical)
+![Benoît's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alt257&show_icons=true&theme=react)
 
 ---
 
