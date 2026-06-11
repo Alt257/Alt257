@@ -2,6 +2,10 @@
 
 ### Full Stack Web & Mobile Developer / Développeur Full Stack Web & Mobile (.NET, Angular, Flutter)
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&lines=.NET+%7C+Angular+%7C+Flutter;Passionné+d'architecture+logicielle;Toujours+en+quête+de+nouveaux+défis" alt="Typing Animation" />
+</p>
+
 > *"There is a common thread between a well-designed escape game and successful software: everything must come together with elegance."*
 > *"Il y a un point commun entre un escape game bien conçu et un logiciel réussi : tout doit s'assembler avec élégance."*
 
