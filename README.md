@@ -17,6 +17,7 @@
 </div>
 
 > *"There is a common thread between a well-designed escape game and successful software: everything must come together with elegance."*
+> -
 > *"Il y a un point commun entre un escape game bien conçu et un logiciel réussi : tout doit s'assembler avec élégance."*
 
 ---
