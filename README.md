@@ -40,10 +40,10 @@
 ![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 #### Frameworks & Libs / Frameworks & Bibliothèques
-[![BackendFrameworks](https://skillicons.dev/icons?i=dotnet,symfony)](https://skillicons.dev)
-
 [![FrontendFrameworks](https://skillicons.dev/icons?i=flutter,angular)](https://skillicons.dev)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+[![BackendFrameworks](https://skillicons.dev/icons?i=dotnet,symfony)](https://skillicons.dev)
 
 #### Tools / Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
